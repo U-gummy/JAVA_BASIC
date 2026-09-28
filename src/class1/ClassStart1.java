@@ -1,5 +1,7 @@
 package class1;
 
+import access.Speaker;
+
 public class ClassStart1 {
     public static void main(String[] args) {
 
@@ -14,7 +16,5 @@ public class ClassStart1 {
 
         System.out.println("이름 :" + student1Name + " 나이 :" + student1Age + " 성적 :" + student1Grade);
         System.out.println("이름 :" + student2Name + " 나이 :" + student2Age + " 성적 :" + student2Grade);
-
-
     }
 }
