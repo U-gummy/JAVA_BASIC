@@ -1,6 +1,5 @@
-package gummySupplement.ex;
+package gummySupplement.collections.ex;
 
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 

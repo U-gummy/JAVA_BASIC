@@ -1,4 +1,4 @@
-package gummySupplement.ex;
+package gummySupplement.collections.ex;
 
 import java.util.ArrayList;
 import java.util.List;

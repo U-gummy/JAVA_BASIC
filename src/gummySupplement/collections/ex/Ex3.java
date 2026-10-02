@@ -1,7 +1,6 @@
-package gummySupplement.ex;
+package gummySupplement.collections.ex;
 
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 public class Ex3 {

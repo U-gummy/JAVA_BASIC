@@ -1,8 +1,5 @@
-package gummySupplement.ex;
+package gummySupplement.collections.ex;
 
-import com.sun.tools.jconsole.JConsoleContext;
-
-import javax.swing.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

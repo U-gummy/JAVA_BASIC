@@ -1,4 +1,4 @@
-package gummySupplement;
+package gummySupplement.collections;
 
 import java.util.*;
 
@@ -40,7 +40,5 @@ public class ListMain {
         map.forEach((k, v) -> {
             System.out.println(k + " - " + v);
         });
-
-
     }
 }
